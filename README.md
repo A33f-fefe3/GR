@@ -20,8 +20,10 @@
 - https://neo4j.com/deployment-center/
 - win
 - 下载neo4j-community-5.12.0
+- 链接: https://pan.baidu.com/s/1u93xldYXkxLbqdF65vArWg?pwd=9vi8 提取码: 9vi8 复制这段内容后打开百度网盘手机App，操作更方便哦
 - mac
 - 下载neo4j-community-5.22.0
+- 链接: https://pan.baidu.com/s/1cnn6X0YwUWm2WyGvt4I5ww?pwd=dwp9 提取码: dwp9 复制这段内容后打开百度网盘手机App，操作更方便哦
 - Linux
 - 无
 
