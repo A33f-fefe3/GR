@@ -30,7 +30,7 @@
 - https://github.com/neo4j-contrib/neo4j-apoc-procedures/releases
 
 ## 详细视频讲解
--源码讲解
+- 源码讲解
 - https://www.bilibili.com/video/BV14Z1oY8Erz/?spm_id_from=333.999.0.0&vd_source=973ba2118ad9791ef980d58f76f7fc8f
--RAG整体实现逻辑
+- RAG整体实现逻辑
 - https://www.bilibili.com/video/BV1wh1iYtEKM/?spm_id_from=333.999.0.0&vd_source=973ba2118ad9791ef980d58f76f7fc8f
