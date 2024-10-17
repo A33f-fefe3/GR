@@ -36,3 +36,5 @@
 - https://www.bilibili.com/video/BV14Z1oY8Erz/?spm_id_from=333.999.0.0&vd_source=973ba2118ad9791ef980d58f76f7fc8f
 - RAG整体实现逻辑
 - https://www.bilibili.com/video/BV1wh1iYtEKM/?spm_id_from=333.999.0.0&vd_source=973ba2118ad9791ef980d58f76f7fc8f
+
+# 部署中遇到问题可以到b站视频评论区留言
