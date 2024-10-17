@@ -16,15 +16,15 @@
   
 ## neo4j图数据库
 - 4.版本与5.版本，不是一个东西，跑通此项目请下载5.开头的版本
-- neo4j下载
+### neo4j下载
 - https://neo4j.com/deployment-center/
-- win
+### win
 - 下载neo4j-community-5.12.0
 - 链接: https://pan.baidu.com/s/1u93xldYXkxLbqdF65vArWg?pwd=9vi8 提取码: 9vi8 复制这段内容后打开百度网盘手机App，操作更方便哦
-- mac
+### mac
 - 下载neo4j-community-5.22.0
 - 链接: https://pan.baidu.com/s/1cnn6X0YwUWm2WyGvt4I5ww?pwd=dwp9 提取码: dwp9 复制这段内容后打开百度网盘手机App，操作更方便哦
-- Linux
+### Linux
 - 无
 
 ## apoc连接插件下载
