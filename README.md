@@ -30,6 +30,4 @@
 - https://github.com/neo4j-contrib/neo4j-apoc-procedures/releases
 
 ## 详细视频讲解
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113255200655261&bvid=BV14Z1oY8Erz&cid=26156403644&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113260032426879&bvid=BV1wh1iYtEKM&cid=26168659329&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+https://www.bilibili.com/video/BV14Z1oY8Erz/?spm_id_from=333.999.0.0&vd_source=973ba2118ad9791ef980d58f76f7fc8f
